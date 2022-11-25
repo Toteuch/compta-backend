@@ -1,0 +1,1 @@
+CREATE USER compta_rw WITH PASSWORD 'compta_rw';
